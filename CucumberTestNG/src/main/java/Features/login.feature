@@ -1,4 +1,4 @@
-Feature: Free  Login Feature6
+Feature: Free  Login Feature7
 
 Scenario Outline: Free CRM Login Test Scenario
 
